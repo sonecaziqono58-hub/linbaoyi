@@ -1,0 +1,7 @@
+{
+  "name": "墨染流年 - 极简文艺空间",
+  "description": "一个融合了AI诗歌生成与意境图像创作的文艺互动空间，旨在通过文字与视觉的交织，为用户提供片刻的宁静与感官愉悦。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
